@@ -7,10 +7,10 @@ Neural network is a machine learning approach that has recently became very popu
 I'd like to build and train a neural network that is able to recognize images of characters formed using "#" and ".". Concrete examples is given below.
 
 If I feed the following image below into the system, the system should output "a".  
-'..#####..' +  
-'#...........#' +  
-'#...........#' +  
+'..#####..'  
+'#...........#'  
+'#...........#'  
 '#######' +  
-'#...........#' +  
-'#...........#' +  
-'#...........#'
+'#...........#'  
+'#...........#'  
+'#...........#'  
