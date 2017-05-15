@@ -8,9 +8,9 @@ I'd like to build and train a neural network that is able to recognize images of
 
 For example, if I feed the following image below into the system, the system should output "a".  
 '..#####..' +  
-'#..........#' +  
-'#.......#' +  
-'#########' +  
-'#.......#' +  
-'#.......#' +  
-'#.......#'
+'#...........#' +  
+'#...........#' +  
+'#######' +  
+'#...........#' +  
+'#...........#' +  
+'#...........#'
