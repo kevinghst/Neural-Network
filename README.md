@@ -10,7 +10,7 @@ If I feed the following image below into the system, the system should output "a
 '..#####..'  
 '#...........#'  
 '#...........#'  
-'#######' +  
+'#######'  
 '#...........#'  
 '#...........#'  
 '#...........#'  
